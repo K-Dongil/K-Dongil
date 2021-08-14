@@ -2,6 +2,7 @@
 ## Hello, World! 👋
 ## 🌟 My dream is to be a Backend Developer 💻
 :wave:
+:whale:
 <!--
 **K-Dongil/K-Dongil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
