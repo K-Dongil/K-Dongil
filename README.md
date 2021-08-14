@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=Hello,%20World!%20🐳&fontSize=90)
-## Hello, World! 👋
 ## 🌟 My dream is to be a Backend Developer 💻
 
 <!--
