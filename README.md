@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=Hello,%20World!%20🐳&fontSize=90&fontAlignY=45&animation=scaleIn&fontColor=f7f5f5)
-Hi, I'm Dongil Kim. I'm developing to make services that will improve our lives..
+Hi, I'm Dongil Kim. I'm developing to make services that will improve our lives.
 <!--## 🌟 My dream is to be a Backend Developer 💻 -->
 
 <!--
